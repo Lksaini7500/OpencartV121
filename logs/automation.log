@@ -1,0 +1,24 @@
+14:51:50.447 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+14:51:50.511 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:51:53.019 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+14:51:53.116 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+14:52:00.989 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+14:52:03.615 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:42:03.643 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Lokesh\eclipse-workspace\OpencartV121\master.xml"
+15:42:15.895 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** STARTING TC001_AccountRegistrationTest *****
+15:42:16.436 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:42:17.410 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:42:17.416 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:42:20.962 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:42:21.081 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+15:42:23.851 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:42:29.377 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:51:09.567 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Lokesh\eclipse-workspace\OpencartV121\master.xml"
+15:51:13.728 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** STARTING TC001_AccountRegistrationTest *****
+15:51:14.122 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:51:14.755 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:51:14.759 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+15:51:17.450 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+15:51:17.546 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+15:51:20.565 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+15:51:23.088 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
