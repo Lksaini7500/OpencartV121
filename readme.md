@@ -27,7 +27,7 @@ The framework follows the **Page Object Model (POM)** to separate the UI actions
 * **CI/CD Ready:** Includes a `Dockerfile` for containerized execution and is ready for Jenkins integration.
 
 ## 📊 Sample Execution Report
-> *[Optional: Insert a screenshot here of your Extent Report dashboard showing green/red bars]*
+> <img width="1365" height="729" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/e2e834ce-fa9d-4625-a902-f76eef9648fa" />
 
 ## 🚀 How to Run
 1. Clone the repo: 
@@ -42,4 +42,3 @@ The framework follows the **Page Object Model (POM)** to separate the UI actions
    ```bash
    mvn test
    ```
-Would you like me to also draft a **LinkedIn post** you can share to announce this project and catch the attention of recruiters in your network?
